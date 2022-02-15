@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CurrencyCalc.iml" filepath="$PROJECT_DIR$/.idea/modules/CurrencyCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CurrencyCalc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CurrencyCalc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/CurrencyCalc.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/CurrencyCalc.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/CurrencyCalc.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/CurrencyCalc.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CurrencyCalc.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CurrencyCalc.lib.iml" />
+    </modules>
+  </component>
+</project>
